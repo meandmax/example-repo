@@ -1,0 +1,1 @@
+Only can contain dependencies from parent and other internal deps.
